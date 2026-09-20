@@ -1,4 +1,4 @@
-# E-COMMERCe
+# E-COMMERCE
 # E-Commerce Database Project
 
 ## Database ER Diagram
