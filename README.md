@@ -1,5 +1,6 @@
 # E-COMMERCE
 # 🛒 E-Commerce Spring Boot
+# This repo is under_construction
 
 A production-oriented Java e-commerce web application built with Spring Boot, JSP, Spring Security, and Hibernate — featuring role-based access for admin and customer workflows.
 
