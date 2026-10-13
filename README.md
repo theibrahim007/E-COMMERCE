@@ -52,4 +52,6 @@ Here is the Entity Relationship (ER) diagram for our e-commerce database:
 
 its cool
 
+#have to edit all this
+
 
