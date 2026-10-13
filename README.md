@@ -50,8 +50,8 @@ Here is the Entity Relationship (ER) diagram for our e-commerce database:
 | Cart Item | Tracks items added to the shopping cart |
 | Recommended Product | Stores product recommendations linked to users |
 
-its cool
 
-#have to edit all this
+
+
 
 
